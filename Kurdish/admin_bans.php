@@ -52,15 +52,15 @@ $lang_admin_bans = array(
 'Expire date label'			=>	'Expire date',
 'Expire date help'			=>	'The date when this ban should be automatically removed (format: yyyy-mm-dd). Leave blank to remove manually.',
 
-'Results head'				=>	'Search Results',
-'Results username head'		=>	'Username',
-'Results e-mail head'		=>	'Email',
+'Results head'				=>	'ئەنجامی گەڕان',
+'Results username head'		=>	'ناوی بەکارهێنەر',
+'Results e-mail head'		=>	'پۆستی ئەلکترۆنی',
 'Results IP address head'	=>	'IP/IP-ranges',
 'Results expire head'		=>	'Expires',
-'Results message head'		=>	'Message',
-'Results banned by head'	=>	'Banned by',
-'Results actions head'		=>	'Actions',
-'No match'					=>	'No match',
-'Unknown'					=>	'Unknown',
+'Results message head'		=>	'پەیام',
+'Results banned by head'	=>	'بان کراوە لە لایەن',
+'Results actions head'		=>	'کردارەکان',
+'No match'					=>	'هیچ نەدۆزریاوە',
+'Unknown'					=>	'نەناسراو',
 
 );
