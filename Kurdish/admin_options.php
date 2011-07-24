@@ -194,8 +194,8 @@ $lang_admin_options = array(
 'SMTP SSL help'						=>	'Encrypts the connection to the SMTP server using SSL. Should only be used if your SMTP server requires it and your version of PHP supports SSL.',
 
 // Registration Section
-'Registration subhead'				=>	'Registration',
-'Allow new label'					=>	'Allow new registrations',
+'Registration subhead'				=>	'خۆتۆمارکردن',
+'Allow new label'					=>	'ڕێگە بە خۆتۆمارکردن بدە',
 'Allow new help'					=>	'Controls whether this board accepts new registrations. Disable only under special circumstances.',
 'Verify label'						=>	'Verify registrations',
 'Verify help'						=>	'When enabled, users are emailed a random password when they register. They can then log in and change the password in their profile if they see fit. This feature also requires users to verify new email addresses if they choose to change from the one they registered with. This is an effective way of avoiding registration abuse and making sure that all users have "correct" email addresses in their profiles.',
